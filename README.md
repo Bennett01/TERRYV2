@@ -1,5 +1,5 @@
 
-
+Testing out laravel's (relatively) new docker containerizer CLI thingy called "sail". Pretty cool
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
